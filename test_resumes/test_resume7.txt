@@ -1,0 +1,17 @@
+Cybersecurity Specialist Resume
+James Wright
+Email: jwright@example.com | Phone: (555) 333-4444 | Location: Secure City, USA
+
+Professional Summary
+Certified cybersecurity expert with 7+ years of experience securing networks and systems against cyber threats. Proficient in penetration testing and incident response.
+
+Skills
+Security Tools: Wireshark, Metasploit, Splunk
+Ethical Hacking: CEH Certified
+Network Protocols: TCP/IP, DNS, VPNs
+Experience
+Cybersecurity Analyst
+SecureTech, Secure City, USA — January 2018 – Present
+
+Conducted penetration tests, identifying 90% of vulnerabilities preemptively.
+Implemented multi-factor authentication across systems, reducing breaches by 50%.

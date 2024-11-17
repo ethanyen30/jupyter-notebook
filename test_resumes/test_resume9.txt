@@ -1,0 +1,15 @@
+Mechanical Engineer Resume
+Laura Carter
+Email: lcarter@example.com | Phone: (555) 888-9999 | Location: Engineer City, USA
+
+Professional Summary
+Mechanical engineer with 5+ years of experience in product design and testing. Skilled in CAD software and FEA simulations.
+
+Skills
+Tools: SolidWorks, AutoCAD, ANSYS
+Prototyping, Testing, Manufacturing
+Experience
+Mechanical Engineer
+DesignWorks, Engineer City, USA — August 2018 – Present
+
+Designed components for aerospace projects, reducing material costs by 10%.

@@ -1,0 +1,27 @@
+Data Analyst Resume
+Michael Johnson
+Email: mjohnson@example.com | Phone: (555) 987-6543 | Location: Data City, USA
+GitHub: github.com/mjohnsondata
+
+Professional Summary
+Detail-oriented data analyst with 3+ years of experience interpreting and visualizing complex data sets to drive strategic decisions. Skilled in Python, SQL, and Tableau.
+
+Education
+Master of Science in Data Analytics
+Big Data University, Data City, USA — May 2021
+
+Skills
+Data Analysis Tools: Python, R, Excel
+Data Visualization: Tableau, Power BI
+Databases: SQL, MongoDB
+Statistical Modeling: Regression, Clustering
+Experience
+Data Analyst
+Insight Solutions LLC, Data City, USA — June 2021 – Present
+
+Analyzed sales data to optimize pricing strategies, increasing revenue by 15%.
+Built dashboards for C-level executives, improving decision-making efficiency.
+Junior Data Analyst
+Numbers Co., Data City, USA — June 2020 – May 2021
+
+Processed and visualized customer survey data to identify satisfaction trends.
